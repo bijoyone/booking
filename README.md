@@ -22,7 +22,7 @@ Avilable Room
 
 
 
-## Technologies and libraries Used:
+## Technologies and NPM packages Used:
 
 ### For frontend
 - React
