@@ -1,6 +1,6 @@
 # Full stack Hotel Booking App
 
-##Description:
+## Description:
 
 ```
 Search hotel 
@@ -18,7 +18,7 @@ Avilable Room```
 
 
 
-##Technologies and libraries Used:
+## Technologies and libraries Used:
 
 For frontend
 - React
