@@ -21,7 +21,7 @@ Avilable Room
 
 ## Technologies and libraries Used:
 
-For frontend
+### For frontend
 - React
 - Router
 - Axios - (for fetch items)
@@ -30,7 +30,7 @@ For frontend
 - CSS
 
 
-For backend:
+### For backend:
 
 - MongoDB
 - Node.js
@@ -42,7 +42,7 @@ For backend:
 - Cookies
 - React Context API
 
-For Admin: 
+### For Admin: 
 
 - Axios
 - Recharts
