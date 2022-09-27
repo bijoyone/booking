@@ -13,7 +13,8 @@ Reserve Room
 Price calculate
 Admin Dashboard
 Room options
-Avilable Room```
+Avilable Room
+```
 
 
 
