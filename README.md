@@ -4,6 +4,9 @@
 
 ```
 Search hotel 
+Choose destination
+Choose date
+Choose members
 Select single hotel
 Show Hotel Information
 Room image gallery
@@ -37,8 +40,8 @@ Avilable Room
 - Express
 - JWT
 - Mongoose
-- Nodemon - auto server start
-- Bcryptjs - password encrypt
+- Nodemon - (auto server start)
+- Bcryptjs - (password encrypt)
 - Cookies
 - React Context API
 
